@@ -1,2 +1,4 @@
-package lk.ijse.dep10.app.controller;public class MainViewController {
+package lk.ijse.dep10.app.controller;
+
+public class MainViewController {
 }
